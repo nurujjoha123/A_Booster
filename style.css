@@ -1,5 +1,6 @@
 *{
     background-color: #06101a;
+    /* border: 1px solid red; */
 }
 
 
@@ -10,7 +11,7 @@
     box-shadow: 4px 6px 15px rgba(255, 255, 255, 0.8)
 }
 .pregarap{
-    width: 808px;
+    width: 608px;
     height: 93px;
     font-size: 18px;
     color: rgba(255, 255, 255, 1);
@@ -18,7 +19,7 @@
 
 .fast{
     padding: 50px;
-    width: 1200px;
+    width: 1100px;
     height: 293px;
     margin-top: 50px;
     margin-left: 80px;
@@ -41,7 +42,7 @@
     width: 811px;
     height: 64px;
     border: 2px solid rgba(255, 255, 255, 1);
-    border-radius: 6px red;
+    /* border-radius: 6px red; */
 }
 div ul button{
     width: 111px;
@@ -64,8 +65,8 @@ div ul button{
     color: rgba(255, 255, 255, 1);
     width: 939px;
     height: 62px;
-    /* margin-top: 41px;
-    margin-left: 512px; */
+    margin-top: 41px;
+    margin-left: 512px;
     font-size: 56px;
     margin: 0 auto;
     align-items: center;
@@ -131,6 +132,9 @@ font-size: 56px;
 font-size: 18px;
 align-items: center;
 }
+.baba{
+    margin-left: 40px;
+}
 .baba ul {
     display: flex;
     gap: 20px;
@@ -138,20 +142,20 @@ align-items: center;
 }
 .baba ul li a{
     /* border: 2px solid red; */
-    text-decoration: none;
+     text-decoration: none;
      color: rgba(255, 255, 255, 1);
      font-size: 18px;
 }
 .problem{
     width: 190px;
-    /* height: 495px;
-    margin-left: 100px;
-    margin-top: 20px; */
+    height: 495px;
+    /* margin-left: 100px; */
+    margin-top: 20px;
     align-items: center;
 }
 .right{
     width: 490px;
-    /* height: 495px; */
+    height: 495px;
     margin-top: 20px;
     align-items: center;
 }
@@ -186,7 +190,7 @@ align-items: center;
     width: 390px;
     height: 440px;
     border-top: 366px;
-    /* border-left: 135px; */
+    border-left: 135px;
     border-radius: 10px;
     /* margin: 0 100px; */
 
@@ -206,6 +210,10 @@ align-items: center;
     margin-left: 100px;
     gap: 250px;
     margin-top: 20px;
+}
+.class{
+   
+    margin-top: -65px;
 }
 
 
